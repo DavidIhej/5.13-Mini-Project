@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:
+    yellow
+}
+p{
+  color:red;
+}
+
+button{
+  background-color:green;
+}
+
+img{
+  display:none;
+}
+
+
+
+
